@@ -2,11 +2,11 @@
 
 Tableau de bord Power BI qui suit chaque mois la performance de la page LinkedIn de JEECE (audience, visibilité, engagement). Cette première version couvre **octobre 2026**.
 
-> **Auteur :** [Ton nom], [ton intitulé] chez JEECE
+> **Auteur :** Umang RAWAT, Responsable Marketing chez JEECE
 > **Outil :** Power BI Desktop (Power Query, DAX)
 > **Statut :** version 1, octobre 2026. Septembre et la comparaison mois par mois sont à venir.
 
-![Aperçu du dashboard](images/dashboard_octobre.png)
+![Aperçu du dashboard](screen_dc_oct.png)
 
 ---
 
