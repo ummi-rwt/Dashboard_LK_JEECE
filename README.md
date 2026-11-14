@@ -105,14 +105,6 @@ Le taux de clics est recalculé à partir des totaux (`DIVIDE`) et non obtenu en
 - [ ] Intégrer les **visiteurs de la page** (total mensuel, sans additionner les visiteurs uniques jour par jour).
 - [ ] Étendre le tableau de bord à d'autres sources : Google Search Console, Google Analytics 4 et emailing de prospection.
 
-## 8. Contenu du dépôt
-
-```
-├── README.md
-├── images/
-│   └── dashboard_octobre.png
-├── dashboard_octobre.pdf
-└── dashboard_linkedin_jeece.pbix   (à publier seulement avec l'accord de JEECE)
 ```
 
 ## 9. Confidentialité
