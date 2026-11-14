@@ -6,7 +6,7 @@ Tableau de bord Power BI qui suit chaque mois la performance de la page LinkedIn
 > **Outil :** Power BI Desktop (Power Query, DAX)
 > **Statut :** version 1, octobre 2026. Septembre et la comparaison mois par mois sont à venir.
 
-![Aperçu du dashboard](screen LK oct BI.png)
+![Aperçu du dashboard](screen_LK_oct_BI.png)
 
 ---
 
